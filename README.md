@@ -3,9 +3,9 @@ Swift Codes or BIC Codes for all the Banks in the world. Cached to json, csv and
 
 #### Total Count Rows
 
-AllCountries_v1 - count items 134628
-AllCountries_v2 - count items 84692
-AllCountries_v3 - count items 112887
+* AllCountries_v1 - count items 134628
+* AllCountries_v2 - count items 84692
+* AllCountries_v3 - count items 112887
 
 #### Sources
 
