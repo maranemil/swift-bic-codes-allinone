@@ -1,0 +1,1 @@
+UPDATE AllCountries_v4 all4 JOIN countries_iso2 ciso2 ON ciso2.name = all4.country SET all4.country_iso_code2=ciso2.alpha2
