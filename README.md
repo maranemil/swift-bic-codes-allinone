@@ -37,3 +37,4 @@ Swift Codes or BIC Codes for all the Banks in the world. Cached to json, csv and
 * https://www.swift-code.com/
 * http://theswiftcodes.github.io/
 * https://github.com/theswiftcodes/theswiftcodes.github.io
+
