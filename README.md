@@ -60,4 +60,17 @@ Swift Codes or BIC Codes for all the Banks in the world. Cached to json, csv and
 
 * http://country.io/names.json
 
+##### [API]
+
+* https://www.iban.com/bic-validation-api
+* https://api.iban.com/
+* https://github.com/opendata-stuttgart/banking-api
+* https://www.iban.de/validierungs-api.html
+* https://www.iban.de/berechnungs-api.html
+* https://www.swift.com/our-solutions/interfaces-and-integration/swift-apis/swiftref-api
+* https://www.iban.co.no/bic-validation-api
+* https://de.iban.com/bic-validation-api
+* https://bank.codes/api-swift-code/
+* https://openiban.com/validate/DE89370400440532013000?getBIC=true
+
 
