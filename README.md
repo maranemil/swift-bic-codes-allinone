@@ -3,24 +3,30 @@ Swift Codes or BIC Codes for all the Banks in the world. Cached to json, csv and
 
 #### Total Count Rows
 
-* AllCountries_v1 - count items 134628
-* AllCountries_v2 - count items 84692
-* AllCountries_v3 - count items 112887
+* AllCountries_v1 - count items 134628 (github.com/lstrihic/swift-bic-codes)
+* AllCountries_v2 - count items 84692  (github.com/PeterNotenboom/SwiftCodes)
+* AllCountries_v3 - count items 112887 (github.com/Thomanphan/swiftcode)
+* AllCountries_v4 - count items 100020 (theswiftcodes.github.io)
+* AllCountries_v5 - count items 41436  (erstebank.hu)
 
 #### Sources
 
-##### [github]
+##### [GITHUB]
+
 * https://github.com/lstrihic/swift-bic-codes/tree/master/countries#json
 * https://github.com/PeterNotenboom/SwiftCodes/tree/master/AllCountries#json
 * https://github.com/Thomanphan/swiftcode/tree/master/AllCountries#json
 
+##### [HTML]
 
-
-##### [html]
 * https://slidex.tips/download/country-bank-name-bic-austria-rbs-nv-austria-abnaatww-austria-citibank-intl-plc
 * https://kipdf.com/swift-code-name-address-of-the-bank-sno_5aea8c317f8b9ad3268b464c.html
+* https://www.swift-code.com/
+* http://theswiftcodes.github.io/
+* https://github.com/theswiftcodes/theswiftcodes.github.io
 
-##### [pdf]
+##### [PDF]
+
 * http://www.eximbankbd.com/report/rmaJan18.pdf
 * http://philja.judiciary.gov.ph/IOJT/Files/pdf/Binder2.pdf
 * https://nepalsbi.com.np/assets/upload/files/RMA_NPKA_03-NOV-2014.pdf
@@ -30,16 +36,12 @@ Swift Codes or BIC Codes for all the Banks in the world. Cached to json, csv and
 * https://www.bnpparibasfortis.be/pics/be/common/de/lib_download/SEPA/SDD_reachable_banks.pdf
 * https://www.abnamro.nl/nl/images/Generiek/PDFs/020_Zakelijk/01_Betalingsverkeer/SEPA-banken_Core.pdf
 
-##### [csv]
+##### [CSV]
+
 * https://github.com/railslove/sepa-clearer/blob/master/data/deutsche_bundesbank.csv
 
-##### [html]
-* https://www.swift-code.com/
-* http://theswiftcodes.github.io/
-* https://github.com/theswiftcodes/theswiftcodes.github.io
+##### [XLS]
 
-
-##### [xls]
 * https://eba-cms-prod.azurewebsites.net/media/azure/production/2139/20190409-sct-reachable-psp-list.xlsx
 * https://www.ebaclearing.eu/media/azure/production/2236/20190801-cor-reachable-psp-list.xlsx
 * https://www.ebaclearing.eu/media/azure/production/1663/20171229-cor-reachable-psps.xls
