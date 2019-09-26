@@ -39,6 +39,10 @@ Swift Codes or BIC Codes for all the Banks in the world. Cached to json, csv and
 ##### [CSV]
 
 * https://github.com/railslove/sepa-clearer/blob/master/data/deutsche_bundesbank.csv
+* https://www.europeanpaymentscouncil.eu/what-we-do/be-involved/register-participants/registers-participants-sepa-payment-schemes
+* https://www.europeanpaymentscouncil.eu/sites/default/files/participants_export/sepa_credit_transfer/sepa_credit_transfer.pdf?v=1531482864
+* https://www.europeanpaymentscouncil.eu/sites/default/files/participants_export/sepa_b2b_sdd/sepa_b2b_sdd.csv?v=1568358194
+* https://www.europeanpaymentscouncil.eu/sites/default/files/participants_export/sepa_core_sdd/sepa_core_sdd.csv?v=1568358202
 
 ##### [XLS]
 
