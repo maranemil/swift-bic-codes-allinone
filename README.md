@@ -43,6 +43,7 @@ Swift Codes or BIC Codes for all the Banks in the world. Cached to json, csv and
 * https://www.europeanpaymentscouncil.eu/sites/default/files/participants_export/sepa_credit_transfer/sepa_credit_transfer.pdf?v=1531482864
 * https://www.europeanpaymentscouncil.eu/sites/default/files/participants_export/sepa_b2b_sdd/sepa_b2b_sdd.csv?v=1568358194
 * https://www.europeanpaymentscouncil.eu/sites/default/files/participants_export/sepa_core_sdd/sepa_core_sdd.csv?v=1568358202
+* https://www.ecb.europa.eu/stats/financial_corporations/list_of_financial_institutions/html/monthly_list-MID.en.html
 
 ##### [XLS]
 
