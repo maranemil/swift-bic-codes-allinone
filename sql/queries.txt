@@ -1,1 +1,10 @@
 UPDATE AllCountries_v4 all4 JOIN countries_iso2 ciso2 ON ciso2.name = all4.country SET all4.country_iso_code2=ciso2.alpha2
+
+# eu 28 countries
+SELECT * FROM AllCountries_v5 JOIN countries_iso2 ON countries_iso2.alpha2 = AllCountries_v5.iso2 WHERE `alpha2` IN ( 'AT', 'BE', 'BG', 'CY', 'CZ', 'DE', 'DK', 'ES', 'FI', 'FR', 'GB', 'GR', 'HR', 'HU', 'IE', 'IT', 'LT', 'LU', 'LV', 'MT', 'NL', 'NO', 'PL', 'PT', 'RO', 'SE', 'SI', 'SK');
+
+# eu 28 countries
+'AT', 'BE', 'BG', 'CY', 'CZ', 'DE', 'DK',  'ES', 'FI', 'FR', 'GB', 'GR', 'HR', 'HU', 'IE', 'IT', 'LT', 'LU', 'LV', 'MT', 'NL', 'NO', 'PL', 'PT', 'RO', 'SE', 'SI', 'SK'
+
+# other countries
+'CH', 'EE', 'IS', 'MC', 'SM',  'LI'
