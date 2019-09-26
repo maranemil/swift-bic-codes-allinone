@@ -51,4 +51,8 @@ Swift Codes or BIC Codes for all the Banks in the world. Cached to json, csv and
 * https://www.erstebank.hu/content/dam/hu/ebh/www_erstebank_hu/Maganszemelyek/midennapipenzugyek/Szamlak/nemzetkozi/sepa/SctBanks.xls
 * https://www.fio.cz/docs/cz/Banky_SEPA_srpen_2015.xls
 
+##### [JSON]
+
+* http://country.io/names.json
+
 
