@@ -8,3 +8,11 @@ SELECT * FROM AllCountries_v5 JOIN countries_iso2 ON countries_iso2.alpha2 = All
 
 # other countries
 'CH', 'EE', 'IS', 'MC', 'SM',  'LI'
+
+# merge tables
+INSERT INTO newtable (iso2, bic,  bankname, lastdate)
+SELECT iso2, bic, bankname, NOW() as lastdate
+FROM `AllCountries_v2`
+WHERE `iso2` IN ('BE','BG','DK','DE','EE','FI','FR','GR','IE','IT','HR','LV','LT','LU','MT','NL','AT','PL','PT','RO','SE','SK','SI','ES','CZ','HU','GB','CY')
+ON DUPLICATE KEY UPDATE lastdate=NOW()
+
